@@ -5,9 +5,9 @@ Cars Logo Identifier is an Deep Learning Model based on Convolutional Neural Net
 Images (20778 files, 54 MB - ZIP) for the train and test set - http://u.42.pl/GEt7_images
 
 # Libraries Used:
-Numpy
-Matplotlib
-Tensorflow
-Keras
-OpenCV
-PIL
+- Numpy
+- Matplotlib
+- Tensorflow
+- Keras
+- OpenCV
+- PIL
